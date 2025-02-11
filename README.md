@@ -20,9 +20,6 @@ This project simulates a virtual helpdesk environment for a small business. It i
 3. Explore the ['Knowledge_Base'](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation/blob/main/knowledge_Base) for solutions to common issues.
 
 
-## Troubleshooting
-Having trouble? Check out our [Troubleshooting Guide](path/to/your/table.md) for solutions to common problems.
-
 ## Screenshots of the ticket system
 
 <div align="center">
