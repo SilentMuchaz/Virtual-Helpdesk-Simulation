@@ -16,8 +16,8 @@ This project simulates a virtual helpdesk environment for a small business. It i
 
 ## How to Use
 1. Clone this repository.
-2. Navigate to the [`Mock_Tickets](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation/blob/main/Mock_Tickets) folder to view sample tickets.
-3. Explore the `Knowledge_Base` for solutions to common issues.
+2. Navigate to the ['Mock_Tickets'](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation/blob/main/Mock_Tickets) folder to view sample tickets.
+3. Explore the ['Knowledge_Base'](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation/blob/main/knowledge_Base) for solutions to common issues.
 
 
 ## Troubleshooting
