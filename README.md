@@ -1,53 +1,69 @@
-
 # Virtual Helpdesk Simulation for Small Business
 
-This project simulates a virtual helpdesk environment for a small business. It includes:
-- **Mock Tickets:** 20 detailed tickets with solutions.
-- **Knowledge Base:** A comprehensive guide to common IT issues.
-- **Documentation:** Instructions on how to use the project.
+This project simulates a virtual helpdesk environment for a small business, designed to provide practical experience with ticket management systems and demonstrate my capabilities to potential employers.  It leverages Freshdesk (trial version) to create a realistic helpdesk experience.  The project includes mock tickets, a knowledge base, and comprehensive documentation.
 
-## Features
-- Realistic IT support scenarios.
-- Step-by-step troubleshooting guides.
-- Organized knowledge base for quick reference.
+## Key Features
 
-## How to Use
-1. Clone this repository.
-2. Navigate to the ['Mock_Tickets'](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation/blob/main/Mock_Tickets) folder to view sample tickets.
-3. Explore the ['Knowledge_Base'](https://github.com/SilentMuchaz/Virtual-Helpdesk-Simulation/blob/main/knowledge_Base) for solutions to common issues.
+* **Realistic IT Support Scenarios:**  20 detailed mock tickets covering a range of common IT issues small businesses face, complete with suggested solutions.  These scenarios include [password resets, software installation problems, network connectivity issues].
+* **Comprehensive Knowledge Base:**  A structured knowledge base providing step-by-step troubleshooting guides and solutions to common IT problems. This resource is designed for quick reference and efficient problem-solving.
+* **Freshdesk Integration:**  The simulation is built using Freshdesk (trial version), a popular helpdesk software. This provides hands-on experience with a real-world platform.
+* **Detailed Documentation:**  Includes this 'README' file with instructions on how to explore the project, as well as a separate document [e.g., 'PROJECT_LEARNINGS.pdf'] detailing the project's development, learnings, challenges, and future improvements.
 
+## Technologies Used
 
-## Screenshots of the ticket system
+* **Freshdesk (Trial Version):**  The core platform for the helpdesk simulation.
 
-<div align="center">
-Ticket System dashboard
-</div>
+## Project Learnings
 
-![Ticket System dashboard](https://imgur.com/ZcA1AUs.png)
+This project allowed me to gain practical experience with:
 
-<div align="center">
-Tickets
-</div>
-
-![Tickets](https://imgur.com/KHSCxhb.png)
-
-<div align="center">
-Contacts
-</div>
-
-![Contacts](https://imgur.com/Rg0iQkN.png)
-
-<div align="center">
-Solved ticket
-</div>
-
-![Solved Ticket](https://imgur.com/VVMGh7N.png)
-
-<div align="center">
-Knowledge base
-</div>
-
-![Knowledge Base](https://imgur.com/y3sqcrM.png)
+* Configuring and using Freshdesk features (e.g., ticket forms, canned responses, knowledge base).
+* Understanding Service Level Agreements (SLAs).
+* Researching and understanding API integration possibilities (although not fully implemented due to trial limitations).
+* Simulating an Agile-like approach to project management.
+* Defining simulated requirements based on common small business helpdesk needs.
+* Applying customer service best practices within a helpdesk environment.
 
 
+## How to Explore the Project
 
+1. **Access Mock Tickets:** Navigate to the `Mock_Tickets` folder to view the sample tickets.  Each ticket includes a detailed description of the issue and a proposed solution.
+2. **Explore the Knowledge Base:** The `Knowledge_Base` folder contains documentation on common IT issues and their solutions.
+
+## Screenshots
+
+
+### Main Ticket Dashboard
+
+<figure style="text-align: center;">
+  <img src="https://imgur.com/8Dl7JlS.png" alt="Screenshot of the main interface">
+  <figcaption>The main interface of the Freshdesk helpdesk simulation.</figcaption>
+</figure>
+
+### Tickets View
+
+<figure style="text-align: center;">
+  <img src="https://imgur.com/UECFgyw.png" alt="Screenshot of a sample ticket">
+  <figcaption>Tickets showing the problem description.</figcaption>
+</figure>
+
+### Contacts View
+
+<figure style="text-align: center;">
+  <img src="https://imgur.com/0yqlFIt.png" alt="Screenshot of a sample ticket">
+  <figcaption>Sample of contacts in the ticketing system.</figcaption>
+</figure>
+
+### Solved Ticket View
+
+<figure style="text-align: center;">
+  <img src="https://imgur.com/dnLz6Oi.png" alt="Screenshot of a sample ticket">
+  <figcaption>Sample of the ticket and proposed solution.</figcaption>
+</figure>
+
+### Knowledge Base View
+
+<figure style="text-align: center;">
+  <img src="https://imgur.com/bedhU3v.png" alt="Screenshot of a sample ticket">
+  <figcaption>Articles with proposed solutions.</figcaption>
+</figure>
