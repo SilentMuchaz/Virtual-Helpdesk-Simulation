@@ -1,0 +1,21 @@
+Ticket ID,Subject,Type,Status,Priority,Description
+#20231027-001,Printer Jam,Incident,Open,Medium,Printer in marketing department constantly jamming.
+#20231027-002,Software Install,Request,Open,Low,Request to install Adobe Photoshop.
+#20231027-003,Network Connectivity,Incident,Open,High,Intermittent network connectivity issues.
+#20231027-004,Password Reset,Incident,Open,Medium,User needs password reset.
+#20231027-005,Monitor Malfunction,Incident,Open,Medium,User's monitor is displaying distorted images.
+#20231027-006,Email Access Issue,Incident,Open,High,User cannot access email on their tablet.
+#20231027-007,New Employee Onboarding,Request,Open,Low,Set up new employee's computer and accounts.
+#20231027-008,Application Error,Incident,Open,Medium,Error message when launching specific app.
+#20231027-009,Slow Internet,Incident,Open,Medium,User reports slow internet speeds.
+#20231027-010,Data Recovery,Request,Open,High,User deleted files and needs them recovered.
+#20231027-011,VPN Connection,Incident,Open,High,User unable to connect to the VPN.
+#20231027-012,Software Update,Request,Open,Low,Request to update specific software.
+#20231027-013,Computer Freezing,Incident,Open,High,User's computer is frequently freezing.
+#20231027-014,Mobile Device Setup,Request,Open,Low,User needs help setting up company tablet.
+#20231027-015,Projector Not Working,Incident,Open,Medium,Projector in conference room not working.
+#20231027-016,User Training,Request,Open,Low,User requests training on new software.
+#20231027-017,Shared Drive Access,Incident,Open,Medium,User cannot access a shared network drive.
+#20231027-018,System Outage,Incident,Open,Urgent,Critical system is currently unavailable.
+#20231027-019,Hardware Replacement,Request,Open,Medium,"User's computer is outdated, needs replaced."
+#20231027-020,Email Signature Setup,Request,Open,Low,User needs help setting up email signature.
