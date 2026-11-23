@@ -61,8 +61,8 @@ The reviewed article set uses consistent problem, checks, and escalation section
 
 Produced a reusable mock ticket register and a structured troubleshooting knowledge base, with documented practice using Freshdesk ticketing concepts. The project demonstrates helpdesk workflow design, issue prioritization, knowledge management, and attention to accurate incident reporting.
 
-## Project Artifacts
+## Project Artifact
 
 - [Ticket register](data/ticket-register.md) and [CSV dataset](data/mock-tickets.csv)
-- [Knowledge-base articles](data/knowledge-base-articles.md)
-- [Main project README](README.md)
+
+
