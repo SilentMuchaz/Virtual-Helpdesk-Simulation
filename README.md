@@ -65,7 +65,7 @@ The project demonstrates practical foundations in **IT support, ticket managemen
 
 ## Technical Case Study
 
-The [Virtual Helpdesk Case Study](Virtual-Helpdesk-Case-Study.md) provides additional detail on the simulation, ticket distribution, evidence, and limitations. A [PDF version](reports/01-virtual-helpdesk-case-study.pdf) is also available.
+The [Virtual Helpdesk Case Study](Virtual-Helpdesk-Case-Study.md) provides additional detail on the simulation, ticket distribution, evidence, and limitations. A [PDF version](01-virtual-helpdesk-case-study.pdf) is also available.
 
 ## Scope
 
